@@ -1,0 +1,13 @@
+name = "Armor Stand Shift Swap"
+filename = "armorstandshiftswap-1.20.1-0.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/vFDTNKLA/versions/tdJGUkNP/armorstandshiftswap-1.20.1-0.0.1.jar"
+hash-format = "sha1"
+hash = "181eede9b95217d3991e855aac58bb7d9aa2520a"
+
+[update]
+[update.modrinth]
+mod-id = "vFDTNKLA"
+version = "tdJGUkNP"

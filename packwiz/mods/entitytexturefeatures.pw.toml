@@ -1,0 +1,13 @@
+name = "[ETF] Entity Texture Features"
+filename = "entity_texture_features_forge_1.20.1-5.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/Arc3HTmh/entity_texture_features_forge_1.20.1-5.2.2.jar"
+hash-format = "sha1"
+hash = "00d6bbed320c8f8722e95ef60416655600e45368"
+
+[update]
+[update.modrinth]
+mod-id = "BVzZfTc1"
+version = "Arc3HTmh"

@@ -1,0 +1,13 @@
+name = "CTOV - Rats Compat"
+filename = "ctov-rats-compat-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K7YhuIBe/versions/2i1OZ2Ai/ctov-rats-compat-1.0.jar"
+hash-format = "sha1"
+hash = "151445dfc957070436c085e91c26e62aa402c7f1"
+
+[update]
+[update.modrinth]
+mod-id = "K7YhuIBe"
+version = "2i1OZ2Ai"
