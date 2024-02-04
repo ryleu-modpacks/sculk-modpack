@@ -1,6 +1,6 @@
 name = "Armor Stand Shift Swap"
 filename = "armorstandshiftswap-1.20.1-0.0.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/vFDTNKLA/versions/tdJGUkNP/armorstandshiftswap-1.20.1-0.0.1.jar"
