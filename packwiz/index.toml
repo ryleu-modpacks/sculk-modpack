@@ -336,6 +336,11 @@ hash = "d59267b7c76cda271d3edf00c50b532a5912eb1a1bafbe6a16f0ecffd78a4f4f"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "038fcb9985adaa5756f9236c84634a1fe546eb4f4c54f2293d61e1989c114870"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
 metafile = true
