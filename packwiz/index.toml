@@ -61,11 +61,6 @@ hash = "b1e70c01c737670dab9430ea844053bdc0ffbb62519ea8846deaeb3c49de9655"
 metafile = true
 
 [[files]]
-file = "mods/beautify.pw.toml"
-hash = "533dcc65650f9b8b92992e09913a4a86e5a96bc84c1dba176d7db5973d7247b1"
-metafile = true
-
-[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "3b556473bb7904308164faacea5fda2dcfcc8d31ff0a5be8bd8038db79ba39c3"
 metafile = true
@@ -153,11 +148,6 @@ metafile = true
 [[files]]
 file = "mods/ctov-abab-compat.pw.toml"
 hash = "bcadbcca1fdcec1984e441938486abb42bc01e8e0b659c06f7545a217d14535e"
-metafile = true
-
-[[files]]
-file = "mods/ctov-beautify-compat.pw.toml"
-hash = "a1c94db18b2c206b3573e5614109ce23409ce2e667d6671dcaf82bef54124eed"
 metafile = true
 
 [[files]]
