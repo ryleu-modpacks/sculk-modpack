@@ -473,3 +473,8 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "86cd326e63f6de2dee251f14df86973847d5c783ccc188b4429cb27b08035a68"
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "50ca37438eae5a655f61902d7e498469f0cceddbb6ea42b4648001be50d3af5e"
+metafile = true
